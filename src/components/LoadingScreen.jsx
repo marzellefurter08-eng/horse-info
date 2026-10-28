@@ -17,8 +17,8 @@ export default function LoadingScreen() {
       <style>{`
         :root {
           --master-speed: 0.55s; 
-          --red-primary: rgb(255, 253, 253);
-          --red-shadow: #787878;
+          --red-primary: #7b400070;
+          --red-shadow: #7c480e7e;
           --sync-curve: cubic-bezier(0.4, 0.05, 0.5, 0.95);
         }
 
