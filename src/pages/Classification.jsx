@@ -55,7 +55,7 @@ function ClassificationPage() {
         </div>
       </section>
 
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-[#0a0000] to-[#1a0000]">
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-gray-100 to-gray-200 dark:from-[#0a0000] dark:to-[#1a0000]">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-8 text-center">Light Horses: Speed & Agility</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -123,7 +123,7 @@ function ClassificationPage() {
         </div>
       </section>
 
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-[#0a0000] to-[#1a0000]">
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-gray-100 to-gray-200 dark:from-[#0a0000] dark:to-[#1a0000]">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-8 text-center">Gaited Horses: Smooth & Comfortable</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
