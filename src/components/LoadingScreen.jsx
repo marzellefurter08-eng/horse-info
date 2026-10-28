@@ -23,6 +23,7 @@ export default function LoadingScreen() {
         }
 
         /* 1. MASTER SPINE TIMING */
+        
         @keyframes master-torso {
           0%, 100% { transform: translateY(3px) rotate(-1.5deg); }   
           25% { transform: translateY(-6px) rotate(0.8deg); }       
@@ -134,7 +135,7 @@ export default function LoadingScreen() {
               <path d="M55 72 C42 85, 42 95, 46 92" stroke="var(--red-primary)" strokeWidth="12" strokeLinecap="round" />
               <g className="h-hk-r">
                 <path d="M46 92 L42 114 L36 126" stroke="var(--red-primary)" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M33 125 L42 125 L39 129 L31 129 Z" fill="#200000" />
+                <path d="M33 125 L42 125 L39 129 L31 129 Z" fill="#9a4d0a8d" />
               </g>
             </g>
             <g className="f-sh-r">
@@ -143,7 +144,7 @@ export default function LoadingScreen() {
                 <path d="M138 94 L146 112" stroke="var(--red-primary)" strokeWidth="6" strokeLinecap="round" />
                 <g className="f-an-r">
                   <path d="M146 112 L152 124" stroke="var(--red-primary)" strokeWidth="4.5" strokeLinecap="round" />
-                  <path d="M149 123 L158 123 L156 127 L147 127 Z" fill="#200000" />
+                  <path d="M149 123 L158 123 L156 127 L147 127 Z" fill="#9a4d0a8d" />
                 </g>
               </g>
             </g>
