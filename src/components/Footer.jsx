@@ -9,7 +9,7 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <span className="text-xl font-bold">Horse Info from Marzelle</span>
+              <span className="text-xl font-bold">Horse Info</span>
             </div>
             <p className="text-gray-700 dark:text-[#ffffff] leading-relaxed">
               Your comprehensive guide to understanding the magnificent world of horses.
@@ -38,10 +38,10 @@ function Footer() {
 
         <div className="border-t border-gray-200 dark:border-[#ff0000]/30 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-700 dark:text-[#ffffff] text-sm mb-4 md:mb-0">
-            © {currentYear} Horse Info from Marzelle. All rights reserved.
+            © {currentYear} Horse Info. All rights reserved.
           </p>
           <div className="flex items-center space-x-2 text-gray-700 dark:text-[#ffffff] text-sm">
-            <span>Made with Marzelle</span>
+            <span>Built by Marzelle</span>
           </div>
         </div>
       </div>

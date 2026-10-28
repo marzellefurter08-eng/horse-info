@@ -12,7 +12,7 @@ function Hero() {
           </div>
           
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-900 dark:text-white tracking-tight">
-            Horse Info from Marzelle
+            Horse Info
           </h1>
           
           <p className="max-w-2xl mx-auto text-xl text-gray-700 dark:text-[#ffffff] leading-relaxed">
