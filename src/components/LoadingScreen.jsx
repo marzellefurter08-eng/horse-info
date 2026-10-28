@@ -159,7 +159,7 @@ export default function LoadingScreen() {
             <path d="M55 72 C40 85, 42 96, 46 92" stroke="var(--red-primary)" strokeWidth="15" strokeLinecap="round" />
             <g className="h-hk-l">
               <path d="M46 92 L42 114 L36 126" stroke="var(--red-primary)" strokeWidth="8" strokeLinecap="round" strokeLinejoin="round" />
-              <path d="M33 125 L43 125 L40 129 L32 129 Z" fill="#420000" />
+              <path d="M33 125 L43 125 L40 129 L32 129 Z" fill="#762f0874" />
             </g>
           </g>
 
